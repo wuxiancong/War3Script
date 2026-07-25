@@ -6,6 +6,17 @@
 
 `war3map.j` 是魔兽争霸3地图的核心。当玩家加载地图时，游戏引擎会执行该文件中的 `main` 函数来初始化地图（创建单位、设置天气、启动计时器等），并执行 `config` 函数来配置玩家颜色、结盟关系和地图基础信息。
 
+```
+https://github.com/wuxiancong/War3Script/blob/main/war3map_1.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_2.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_3.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_4.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_5.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_6.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_7.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_8.j
+https://github.com/wuxiancong/War3Script/blob/main/war3map_9.j
+```
 ### 基础脚本示例
 
 以下是本项目中 `war3map.j` 的核心基础代码结构，包含初始化玩家和简单的“Hello World”欢迎信息：
