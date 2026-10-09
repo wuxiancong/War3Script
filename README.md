@@ -17,6 +17,15 @@ https://github.com/wuxiancong/War3Script/blob/main/war3map_7.j
 https://github.com/wuxiancong/War3Script/blob/main/war3map_8.j
 https://github.com/wuxiancong/War3Script/blob/main/war3map_9.j
 ```
+
+```
+https://github.com/wuxiancong/War3Script/blob/main/war3map_hero_pick_digit_display.md
+https://github.com/wuxiancong/War3Script/blob/main/war3map_hero_pick_finalizer.md
+https://github.com/wuxiancong/War3Script/blob/main/war3map_hero_pick_rd_logic.md
+https://github.com/wuxiancong/War3Script/blob/main/war3map_hero_pick_rd_timer.md
+https://github.com/wuxiancong/War3Script/blob/main/war3map_hero_pick_ui_renderer.md
+https://github.com/wuxiancong/War3Script/blob/main/war3map_hero_pick_ui_timer.md
+```
 ### 基础脚本示例
 
 以下是本项目中 `war3map.j` 的核心基础代码结构，包含初始化玩家和简单的“Hello World”欢迎信息：
